@@ -24,7 +24,7 @@ npm run dev
 Then open the printed local URL in your browser.
 
 ### Screenshot
-![Screenshot of Star Advisor](screenshot.png "Screenshot of Star Advisor")
+![Screenshot of Star Advisor](src/assets/screenshot.png "Screenshot of Star Advisor")
 
 ### Where to plug in the AI backend
 

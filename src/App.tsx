@@ -209,7 +209,7 @@ function App() {
           <div className="sa-header-text">
             <h1 id="sa-title" className="sa-title">
               <span className="sa-title-star" aria-hidden="true">
-                ★
+                ✦
               </span>
               <span className="sa-title-text">Star Advisor</span>
             </h1>
@@ -224,7 +224,7 @@ function App() {
             aria-current="step"
           >
             <span className="sa-step-ai-icon" aria-hidden="true">
-              ★
+              ✦
             </span>
             <span className="sa-step-ai-label">Advisor</span>
             <span className="sa-sr-only">Star Advisor AI chat</span>

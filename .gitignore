@@ -1,0 +1,81 @@
+### Node & package managers
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+package-lock.json.*
+yarn.lock.*
+pnpm-lock.yaml.*
+
+### Logs
+logs
+*.log
+*.log.*
+
+### Diagnostic reports
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+### Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+### Build output (Vite / generic frontend)
+dist/
+dist-ssr/
+build/
+
+### Caches
+.cache/
+.vite/
+node_modules/.vite/
+.turbo/
+.eslintcache
+*.tsbuildinfo
+
+### Test & coverage output
+coverage/
+*.lcov
+.nyc_output/
+
+### Environment files (keep secrets out of git)
+.env
+.env.*
+!.env.example
+
+### Editor & IDE
+.vscode/
+.idea/
+*.iml
+
+### OS & miscellaneous
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

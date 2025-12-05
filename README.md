@@ -23,9 +23,12 @@ npm run dev
 
 Then open the printed local URL in your browser.
 
-### Where to plug in a real AI backend
+### Screenshot
+![Screenshot of Star Advisor](screenshot.png "Screenshot of Star Advisor")
 
-All chat behaviour currently runs on the client side with simulated assistant responses. To connect a real backend or AI provider:
+### Where to plug in the AI backend
+
+All chat behaviour currently runs on the client side with simulated assistant responses. To connect the AI backend:
 
 - Open `src/App.tsx`.
 - Replace the body of `createAssistantReply` with a call to your API, or
